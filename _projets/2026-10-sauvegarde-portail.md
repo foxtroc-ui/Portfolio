@@ -1,18 +1,18 @@
 ---
-title: "Intitulé du projet"
+title: "Création du portfolio"
 date: 2026-10-07
 cadre: "Atelier de professionnalisation"
-resume: "Une phrase : ce que vous avez fait, et pour qui."
+resume: "Création d'un portfolio dans pour moi-même."
 competences: [c2]
 ---
 
 ## Contexte
 
-Qui a demandé quoi, dans quelle organisation, et pourquoi c'était nécessaire.
+On m'a demander de créé un porfolio dans le but de pouvoir y exposé les différents projets qui seront réalisé au cours de l'année dans la formation et dans les projets personnels. Cela est néccessaires car pour les entretiens un protfolio est obligatoire. 
 
 ## Conditions et moyens
 
-Le matériel, les logiciels, seul ou en équipe.
+Le code et ressources ont été fournies par l'enseignant et modifier par moi-même pour correspondre à mes envies. .
 
 ## Description de l'activité
 
