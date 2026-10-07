@@ -29,7 +29,8 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 - Le score d'accessibilité WC3: <img width="973" height="562" alt="Capture d&#39;écran 2026-10-07 155222" src="https://github.com/user-attachments/assets/ba44a21a-3548-478d-942b-4aefe1cd8dba" />
 
-- Le score d'accessibilité WC3: <img width="687" height="497" alt="Capture d&#39;écran 2026-10-07 155236" src="https://github.com/user-attachments/assets/b2732cc9-2045-4fd1-83ef-df8a9e1ae1ba" />
+- Le score d'accessibilité WC3:
+  <img width="687" height="497" alt="Capture d&#39;écran 2026-10-07 155236" src="https://github.com/user-attachments/assets/b2732cc9-2045-4fd1-83ef-df8a9e1ae1ba" />
 
 
 
