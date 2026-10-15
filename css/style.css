@@ -9,15 +9,23 @@
 }
 * { box-sizing: border-box; }
 
-body {
-  margin: 0;
-  min-height: 100vh;
+/* Image de fond appliquée sur html : elle s'ajuste à toute la hauteur de la page.
+   Pour changer l'ajustement, modifiez background-size :
+   cover = remplit l'écran (rogne les bords), contain = image entière visible,
+   100% 100% = étirée aux dimensions exactes de l'écran. */
+html {
+  min-height: 100%;
   background-color: var(--fond); /* couleur de secours si l'image ne charge pas */
   background-image: url("../images/Background-Portfolio.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* l'image reste fixe quand on défile */
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: transparent;
 }
 
 header, main, footer {
