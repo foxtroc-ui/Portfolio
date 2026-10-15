@@ -16,7 +16,7 @@
 html {
   min-height: 100%;
   background-color: var(--fond); /* couleur de secours si l'image ne charge pas */
-  background-image: url("../images/Background-Portfolio.jpg");
+  background-image: url("../images/OIP.jpg");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
